@@ -1,8 +1,8 @@
-package org.example.class9march2032024;
+package org.example.class10march2032024;
 
 public class Dog { // use this design to create many many dogs different properties
     String name;     // this is the design and blueprint dog class
-    String color;    // call properties or instance variables to decribe something
+    String color;    // call properties or instance variables to describe something
     String breed;
     int age;
     double weight;

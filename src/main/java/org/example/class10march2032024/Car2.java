@@ -1,8 +1,9 @@
-package org.example.class9march2032024;
+package org.example.class10march2032024;
 
-public class Car {
+public class Car2 {
     String make;
     String model;
+    String style;
     String color;
     double price;
     int year;
