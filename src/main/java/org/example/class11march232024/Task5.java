@@ -7,9 +7,12 @@ public class Task5 {
 /*Create a String that will hold a sentence. Write a
 program to get a new String without any spaces*/
         String str="Java Is Really good and hard";
-        String[] words=str.split(" ");
+        String[] words=str.split(" "); //with array
     for (int i=0; i<words.length; i++){
         System.out.print(words[i]);
     }
+        System.out.println();  //with create new STring
+        String str2="Java Is Really good and hard";
+        System.out.println(str2.replace(" ", ""));
     }
 }
